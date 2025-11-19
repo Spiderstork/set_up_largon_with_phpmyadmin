@@ -15,9 +15,12 @@ To run projects store them in C:\Users\your_user\laragon\www
 
 Or  if you want to save it one drive to access it on any machine and back it up
 
-Change C:\Users\your_user7\laragon\bin\apache\httpd-2.4.62-240904-win64-VS17\conf
+go to C:\Users\your_user7\laragon\bin\apache\httpd-2.4.62-240904-win64-VS17\conf
+
 Then select httpd.conf
+
 then change this two lines 
+
  <img width="647" height="81" alt="image" src="https://github.com/user-attachments/assets/433be953-66fe-421d-9a7f-3c3191c7a55d" />
 
 To Something else like
