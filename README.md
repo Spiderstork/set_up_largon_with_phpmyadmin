@@ -26,3 +26,33 @@ then change this two lines
 To Something else like
  
 <img width="940" height="58" alt="image" src="https://github.com/user-attachments/assets/5f31b6a0-f13d-4d4d-84a5-0020e6764693" />
+
+
+
+
+--- How to Save db  ---- 
+
+Go to db you want to save and press export
+
+<img width="940" height="785" alt="image" src="https://github.com/user-attachments/assets/6f8c36de-c053-4d40-ab4b-e935ea50f476" />
+
+Then click export
+
+<img width="940" height="244" alt="image" src="https://github.com/user-attachments/assets/b327c92a-bde2-4a00-a0f0-91217f49d524" />
+
+Then store in one drive
+
+
+
+---  How to import DB ---
+
+Click New and import
+
+<img width="940" height="278" alt="image" src="https://github.com/user-attachments/assets/1a7a54e7-97a8-479a-b9f7-d559b22a2bda" />
+
+Chose file to import
+
+<img width="940" height="610" alt="image" src="https://github.com/user-attachments/assets/2cbc52fc-f7b8-4056-9b5e-3274b5ba47b8" />
+
+ 
+Make sure format is same as what you saved
